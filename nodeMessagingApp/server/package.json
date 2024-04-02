@@ -1,0 +1,16 @@
+{
+  "name": "nodemessagingapp",
+  "version": "1.0.0",
+  "description": "Messaging using mysql, express, cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Hrishikesh Kalekinge",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3"
+  }
+}
